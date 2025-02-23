@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "ag-grid-enterprise": "31.2.0",
+    "prettier": "^3.5.2",
+    "typescript": "^5.7.3"
+  }
+}

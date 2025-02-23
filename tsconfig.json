@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "alwaysStrict": true,
+    "noImplicitReturns": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "outDir": "dist",
+    "removeComments": true,
+    "inlineSourceMap": true,
+    "importHelpers": true,
+    "target": "ESNext",
+    "module": "commonjs",
+    "allowJs": true,
+    "checkJs": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+    "declaration": true,
+    "emitDeclarationOnly": true,
+    "declarationMap": true,
+    "noImplicitAny": false,
+  },
+  "exclude": ["node_modules", "env", ".venv", "dist"]
+}
